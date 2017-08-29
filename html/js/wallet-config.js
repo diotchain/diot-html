@@ -1,0 +1,1 @@
+window.DIOT_WALLET_CONFIG={ip:"127.0.0.1",port:"27618",version:"v1.1.2"};
